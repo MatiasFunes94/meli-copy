@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/meli-copy/static/css/main.79d08502.chunk.css",
+    "main.js": "/meli-copy/static/js/main.96f41da1.chunk.js",
+    "main.js.map": "/meli-copy/static/js/main.96f41da1.chunk.js.map",
+    "runtime-main.js": "/meli-copy/static/js/runtime-main.5ac8034c.js",
+    "runtime-main.js.map": "/meli-copy/static/js/runtime-main.5ac8034c.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/meli-copy/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.2c842264.chunk.js": "/meli-copy/static/js/2.2c842264.chunk.js",
+    "static/js/2.2c842264.chunk.js.map": "/meli-copy/static/js/2.2c842264.chunk.js.map",
+    "index.html": "/meli-copy/index.html",
+    "precache-manifest.782b360ab53bff8d5342bb8e2cd728c2.js": "/meli-copy/precache-manifest.782b360ab53bff8d5342bb8e2cd728c2.js",
+    "service-worker.js": "/meli-copy/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/meli-copy/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.79d08502.chunk.css.map": "/meli-copy/static/css/main.79d08502.chunk.css.map",
+    "static/js/2.2c842264.chunk.js.LICENSE.txt": "/meli-copy/static/js/2.2c842264.chunk.js.LICENSE.txt",
+    "static/media/bg.jpg": "/meli-copy/static/media/bg.0bc95c84.jpg",
+    "static/media/cano.webp": "/meli-copy/static/media/cano.5174c4a3.webp",
+    "static/media/image1.webp": "/meli-copy/static/media/image1.5babdd57.webp",
+    "static/media/image2.webp": "/meli-copy/static/media/image2.1df8c78b.webp",
+    "static/media/image3.webp": "/meli-copy/static/media/image3.fd72c029.webp",
+    "static/media/image4.webp": "/meli-copy/static/media/image4.6fd33a99.webp",
+    "static/media/image5.webp": "/meli-copy/static/media/image5.1ef80ff2.webp",
+    "static/media/imagen1.jpeg": "/meli-copy/static/media/imagen1.29ce04ff.jpeg",
+    "static/media/imagen1.webp": "/meli-copy/static/media/imagen1.9bdd02cc.webp",
+    "static/media/imagen2.webp": "/meli-copy/static/media/imagen2.829c3706.webp",
+    "static/media/landing-ecommerce.png": "/meli-copy/static/media/landing-ecommerce.1792aa78.png",
+    "static/media/meli.jpeg": "/meli-copy/static/media/meli.92d75035.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ac8034c.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.2c842264.chunk.js",
+    "static/css/main.79d08502.chunk.css",
+    "static/js/main.96f41da1.chunk.js"
+  ]
+}
