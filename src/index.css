@@ -1,0 +1,130 @@
+html, body {
+    font-family: 'Lato', sans-serif;
+    padding: 0;
+    margin: 0;
+  }
+  
+  #root {
+    height: 100vh;
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
+body {
+   background-color: #ececec !important;
+}
+
+.card-tarjetas {
+    height: 100px;
+    padding-top: 21px;
+}
+
+.views-ultima-visita {
+    font-weight: 200;
+    font-size: 30px;
+}
+
+.views-ver-historial {
+    color: #1167b1;
+    font-weight: 400;
+    font-size: 18px;
+    position: relative;
+    right: 60px;
+    bottom: 5px;
+}
+
+.price-card {
+    font-size: 25px;
+}
+
+.truck-card {
+    font-size: 25px;
+    color: #4aa02c;
+    position: relative;
+    bottom: 40px;
+    left: 150px;
+}
+
+.cuotas-card {
+    position: relative;
+    bottom: 20px;
+}
+
+.image-card {
+    border-bottom: 1px #ececec solid;
+    width: 300px;
+}
+
+.meli-jpeg {
+    width: 150px;
+    /* position: relative;
+    right: 50px; */
+}
+
+.miscompras-favoritos {
+    /* position: relative;
+    right: 50px; */
+    width: 400px;
+}
+
+.envio-gratis{
+    /* position: relative;
+    left: 100px; */
+  }
+
+.logo-meli {
+    /* position: relative;
+    right: 40px; */
+}
+
+.enviar-matias {
+    /* position: relative;
+    right: 60px; */
+}
+
+.bottom-searchbar {
+    font-size: 14px;
+    font-weight: 200;
+    position: relative;
+    right: 80px;
+}
+
+.form-input-search {
+    position: relative;
+    right: 80px;
+}
+
+.div-price-cuotas {
+    position: relative;
+    bottom: 40px
+}
+
+.bottom-description {
+    position: relative;
+    bottom: 70px;
+    /* opacity: 0; */
+}
+/* .bottom-description:hover {
+    position: relative;
+    bottom: 70px;
+    opacity: 1;
+} */
+
+.description {
+    font-size: 15px;
+    font-weight: 200;
+}
+
+
+
+.card-images {
+    margin: 10px;
+    width: 300px;
+    height: 315px;
+}
+/* .card-images:hover {
+    margin: 10px;
+    width: 300px;
+    height: 360px;
+} */
